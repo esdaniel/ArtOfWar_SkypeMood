@@ -14,7 +14,7 @@ It's just a couple of python scripts and a text file, so place in any directory 
 
 ```
 $ git clone https://github.com/esdaniel/ArtOfWar_SkypeMood
-$ cd artofwar-skype
+$ cd ArtOfWar_SkypeMood
 $ chmod a+x ./artofwar_skypemood.py
 ```
 
